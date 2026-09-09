@@ -64,4 +64,4 @@ El proyecto está organizado en tres componentes principales:
                         │
       ┌─────────┬───────┼────────┐
       ▼         ▼       ▼        ▼
- Exportación  Nacional Retener Descarte
+      Exportación  Nacional Retener Descarte
