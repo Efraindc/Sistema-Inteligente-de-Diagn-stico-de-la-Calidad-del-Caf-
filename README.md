@@ -37,7 +37,7 @@ Arquitectura del sistema
 
 El proyecto está organizado en tres componentes principales:
 
-                INFORMACIÓN DEL CAFÉ
+                                INFORMACIÓN DEL CAFÉ
                         │
                         ▼
              ┌─────────────────────┐
@@ -64,4 +64,4 @@ El proyecto está organizado en tres componentes principales:
                         │
       ┌─────────┬───────┼────────┐
       ▼         ▼       ▼        ▼
-      Exportación  Nacional Retener Descarte
+ Exportación  Nacional Retener Descarte
